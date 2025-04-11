@@ -34,6 +34,8 @@ Replace the `args` with your own path
 
 ## Example
 
+![Demo](./mcp-calendar-demo.gif)
+
 [Video Demo](https://youtu.be/2zp5Is0QhnE?si=cnBTL4_IcYxIKUs2)
 
 Enjoy and Have fun!
